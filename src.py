@@ -1,3 +1,5 @@
+# Date: May 24 2020
+# Created by: Gianfranco Dumoulin, Andrew Zhang, David Roper, David Lemme
 import pygame
 from pygame.locals import *
 import random
